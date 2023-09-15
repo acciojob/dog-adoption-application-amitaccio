@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.form-1{
+	border: 2px solid green;
+	text-align:center;
+	padding:20px;
+	background-color:lightgray;
+	
+}
